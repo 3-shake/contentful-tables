@@ -1,6 +1,6 @@
 {
   "name": "Contentful Tables",
-  "id": "cf-contentful-ui-am-tables",
+  "id": "contentful-tables-ui",
   "fieldTypes": ["Object"],
   "srcdoc": "./index.html"
 }
